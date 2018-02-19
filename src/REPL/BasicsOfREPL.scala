@@ -7,3 +7,8 @@ object BasicsOfREPL {
     println(msg)
   }
 }
+
+/*o/p will be as below
+
+2
+Hello World*/

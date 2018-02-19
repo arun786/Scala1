@@ -27,7 +27,7 @@
 	       msg = "something else"
            ^
            
-	  scala> val novel =
+	scala> val novel =
 	     | "It was the best times"
 	novel: String = It was the best times
 	
